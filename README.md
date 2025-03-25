@@ -1,6 +1,6 @@
 # 🚀  Copilot
 
-Este projeto explora os recursos do GitHub Copilot e OpenAI, abordando filtros de conteúdo e criação.
+Este projeto explora os recursos do Copilot, abordando filtros de conteúdo e criação.
 
 ## 📌 Funcionalidades Testadas
 - 💡 Sugestões de código do Copilot
