@@ -9,4 +9,15 @@ Este projeto explora os recursos do GitHub Copilot e OpenAI, abordando filtros d
 - 🖼️ Geração de imagem
 
 ## 🖥️ Prints e Exemplos
-![Exemplo 1].png)
+Código em Python
+![Captura 4](Captura%20de%20Tela%20(6).png)
+
+Comentário
+![Captura 3](Captura%20de%20Tela%20(7).png)
+
+Artigo
+![Captura 2](Captura%20de%20Tela%20(8).png)
+
+Geração de Imagem
+![Captura 1](Captura%20de%20tela%202025-03-25%20154307.png)
+
