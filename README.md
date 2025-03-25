@@ -1,2 +1,12 @@
-# Copilot-OpenAI
-Repositório dedicado à exploração das funcionalidades do GitHub Copilot e dos recursos da OpenAI. Durante este projeto, vamos investigar o uso dessas ferramentas para ajudar na criação e moderação de conteúdos automatizados, além de entender como elas filtram e geram respostas em diferentes cenários.
+# 🚀  Copilot
+
+Este projeto explora os recursos do GitHub Copilot e OpenAI, abordando filtros de conteúdo e criação.
+
+## 📌 Funcionalidades Testadas
+- 💡 Sugestões de código do Copilot
+- 🔍 Comentário sobre assunto
+- 📝 Criação de textos com IA
+- 🖼️ Geração de imagem
+
+## 🖥️ Prints e Exemplos
+![Exemplo 1].png)
